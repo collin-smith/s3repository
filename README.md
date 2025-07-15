@@ -9,8 +9,7 @@ Cloudfront is used to improve S3 performance.
 
 ## Architecture Diagram
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/collin-smith/s3repository/blob/main/architecturediagram.jpg)?raw=true)
-
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/collin-smith/s3repository/refs/heads/main/architecturediagram.jpg))
 
 ### Detailed installation steps
 

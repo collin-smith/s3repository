@@ -11,6 +11,7 @@ Cloudfront is used to improve S3 performance.
 
 ![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/collin-smith/s3repository/refs/heads/main/architecturediagram.jpg))
 
+<img src="./architecturediagram.jpg)" width="800px" alt="Mem0 - The Memory Layer for Personalized AI">
 ### Detailed installation steps
 
 * https://collin-smith.medium.com/

@@ -9,7 +9,8 @@ Cloudfront is used to improve S3 performance.
 
 ## Architecture Diagram
 
-[Architecture Diagram.]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/collin-smith/s3repository/blob/main/architecturediagram.jpg))
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/collin-smith/s3repository/blob/main/architecturediagram.jpg)?raw=true)
+
 
 ### Detailed installation steps
 
